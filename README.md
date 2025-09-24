@@ -23,8 +23,6 @@ Under the hood, TheBong transpiles into Python — so you get the full power of 
 ---
 
 ## 📦 Installation
-Clone the repo and install requirements:
-
 ```bash
 git clone https://github.com/yourusername/TheBong.git
 cd TheBong
