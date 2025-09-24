@@ -31,3 +31,5 @@ python <filename.py>
 ```
 ## Working 
 the transpiler converts ".bong" files to ".py" which is now executable through python.
+
+## Please refer the examples folder to get an overview of the syntax....
