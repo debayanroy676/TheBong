@@ -1,0 +1,11 @@
+
+পদ্ধতি sum(x: ই, y: ই) -> ই :
+    ফেরত (x+y)
+ঋ = "First ever programming language in the world\nThat is based on Bengali Language"
+দেখাও(ঋ)
+দেখাও(sum(6, 4)) ??? Adds the two value
+
+?! 
+thought of creating something funny, 
+but it is getting interesting...
+!?
